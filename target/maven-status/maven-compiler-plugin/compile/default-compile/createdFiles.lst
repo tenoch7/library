@@ -1,0 +1,10 @@
+library\dto\Movie.class
+library\ui\LibraryView.class
+library\dao\LibraryDaoFileImpl.class
+library\ui\UserIOConsoleImpl.class
+com\sg\library\advice\LoggingAdvice.class
+library\controller\LibraryController.class
+library\ui\UserIO.class
+com\sg\library\App.class
+library\dao\LibraryDao.class
+library\dao\LibraryDaoException.class
